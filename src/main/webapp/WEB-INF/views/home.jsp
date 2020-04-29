@@ -11,10 +11,10 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 
-<<<<<<< HEAD
+
 <h1>서인덕</h1>
 	<h1>김수경</h1>
-=======
+
 
 
 <h1>이시현1</h1>
